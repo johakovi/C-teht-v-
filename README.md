@@ -6,9 +6,9 @@ Tämän tehtävän tarkoitus oli luoda hotellille varausjärjestelmä, missä py
 --------------------------
 
 ![Näyttökuva 2024-12-07 181713](https://github.com/user-attachments/assets/304b77cf-ce36-4425-8923-4aa95472bcb6)
-Kuva 1. Päämenu
+Kuva 1. Päävalikko
 
-Päämenussa on selkeät vaihtoehdot, mitä halutaan valita
+Päävalikossa on selkeät vaihtoehdot, mitä halutaan valita
 
 --------------------------
 
@@ -26,6 +26,20 @@ _(2) Vierailijan kirjaus_ valikosta voidaan kirjata vierasta. Tässä ohjelma ky
 Kun tiedot on annettu, niin se ilmoittaa hinnan käynnille ja kirjaa järjestelmään asiakkaan.
 
 --------------------------
+
+![Näyttökuva 2024-12-07 181800](https://github.com/user-attachments/assets/8d438119-a492-4ca6-9aff-8e853bbe950a)
+Kuva 4. Vieraan tiedot
+
+_(3) Vieraan tiedot_ valikosta voidaan hakea vierailijan tiedot joko nimen tai huoneen numeron kautta.
+Tämä hakee tiedostoista oikeat tiedot näytölle.
+
+![Näyttökuva 2024-12-07 181808](https://github.com/user-attachments/assets/691a3589-af9e-46a4-a9b5-079be0be453e)
+Kuva 4.1. Esimerkki hausta
+
+Esimerkiksi kuva 4.1. mukaan voidaan hakea vierasta nimellä "Joha", joka oli aikasemmin kirjattu järjestelmään.
+Tässä vaiheessa ohjelma kysyy käyttäjältä, että poistetaanko kirjaus järjestelmästä, vai palataanko takaisin päävalikkoon.
+
+
 
 
 
