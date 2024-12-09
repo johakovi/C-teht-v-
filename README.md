@@ -38,6 +38,7 @@ Kuva 4.1. Esimerkki hausta
 
 Esimerkiksi kuva 4.1. mukaan voidaan hakea vierasta nimellä "Joha", joka oli aikasemmin kirjattu järjestelmään.
 Tässä vaiheessa ohjelma kysyy käyttäjältä, että poistetaanko kirjaus järjestelmästä, vai palataanko takaisin päävalikkoon.
+Jos valitaan poistamista, niin se kysyy vielä huoneen numeroa vapauttamista varten.
 
 
 
