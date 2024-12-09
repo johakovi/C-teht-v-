@@ -15,7 +15,7 @@ Päävalikossa on selkeät vaihtoehdot, mitä halutaan valita
 ![Näyttökuva 2024-12-07 181722](https://github.com/user-attachments/assets/363d7d48-ff00-45d8-b2fb-81ff77b06cde)
 Kuva 2. Huone tiedot
 
-Ensimmäisenä tarkastatetaan _(1) Huoneet_ valikkoa. Tästä valinnasta nähdään kunkin huoneen tyyppiä ja sen varasutilannetta
+Ensimmäisenä tarkastatetaan _(1) Huoneet_ valikkoa. Tästä valinnasta nähdään kunkin huoneen tyyppiä ja sen varaustilannetta
 
 --------------------------
 
