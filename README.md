@@ -44,3 +44,4 @@ Jos valitaan poistamista, niin se kysyy vielä huoneen numeroa vapauttamista var
 
 
 
+
